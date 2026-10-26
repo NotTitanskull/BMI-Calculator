@@ -1,0 +1,22 @@
+# Build output
+bin/
+obj/
+
+# NuGet and package caches
+packages/
+*.nupkg
+
+# IDE and user-specific files
+.idea/
+.vs/
+*.user
+*.userosscache
+*.suo
+*.rsuser
+*.userprefs
+riderModule.iml
+/_ReSharper.Caches/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
